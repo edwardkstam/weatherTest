@@ -1,0 +1,9 @@
+org\test\reporting\ReportWithConfigs.class
+org\test\pages\HomePage.class
+org\test\reporting\ReportSimpleLogic.class
+org\test\reporting\ReportWithCollectionJsonFiles.class
+org\test\pages\ForecastPage.class
+org\test\reporting\BasicNetMasterthoughtReport.class
+org\test\TestRunner.class
+org\test\steps\ForecastStep.class
+org\test\steps\HomeStep.class

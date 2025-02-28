@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Seventh_TestNG_Cucumber_AppiumTest" />
+        <module name="MyThirdAppiumExer" />
+        <module name="Seventh_TestNG_Cucumber_POM_Appium_Report_Test" />
+        <module name="Seventh_TestNG_Cucumber_Appium_Report_Test" />
+        <module name="Lesson_7_TestNG_Cucumber_POM_Appium_Report_Test" />
+        <module name="Test" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
