@@ -2,6 +2,7 @@ Feature: Task 1 MyObservatory App
 
   @Test
   Scenario: Verify navigation to 9-day forecast
+    Given I test if Notification view found
     When I am on the home screen
     When I click navigate up button
     And I click Forecast & Warning Services
