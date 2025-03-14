@@ -12,7 +12,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
 public class WeatherApi {
-    private static final String API_ENDPOINT = "https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=fnd&lang=en";
+    private static final String API_ENDPOINT = "https://data.weather.gov.hk/weatherAPI/opendata/weather.php";
     private static Response response;
     private static String humidityRange;
     private static String forecastDate;
